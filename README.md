@@ -1,6 +1,6 @@
 ![MingBanner](https://user-images.githubusercontent.com/73407904/142791073-5249c50f-26e0-40e1-8aba-1383a8c54a77.PNG)
 
-👋 Hi, I'm Ming, a Full Stack Engineer based in Canada.
+👋 Hi, I'm Ming, a Full Stack Engineer based in Canada. Currently I am working at a global manufacturing company.
 
 #### Tech Stack:
 <p>
