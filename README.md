@@ -4,7 +4,6 @@
 
 #### Tech Stack:
 <p>
-<br/>
 Front End:
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=plastic" />
