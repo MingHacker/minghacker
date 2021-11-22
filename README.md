@@ -1,4 +1,7 @@
-#### Tech Stack 💻 👩‍💻 🤖:
+![Capture](https://user-images.githubusercontent.com/73407904/142790836-0d8ff797-6026-4b34-9e65-a9d2304d07bd.PNG)
+
+#### Tech Stack:
+
 
 <p>
 <br/>
