@@ -1,6 +1,7 @@
 ![MingBanner](https://user-images.githubusercontent.com/73407904/142791073-5249c50f-26e0-40e1-8aba-1383a8c54a77.PNG)
 
-👋 Hi, I'm Ming, a Full Stack Engineer based in Canada. Currently I am working at a global manufacturing company.
+👋 Software Engineer looking for a challenge that dives deeper into full stack software development. Will lead with enthusiasm for coding and attention to detail to help bring the best products to end users. Currently a Software and Automation Engineer at a global manufacturing company with 7 years of experience designing and implementing software solutions to industry.
+
 
 #### Tech Stack:
 <p>
