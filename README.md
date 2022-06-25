@@ -7,7 +7,7 @@ Back End:
   <img alt="Spring" src="https://img.shields.io/badge/Spring-088A51?logo=Spring&logoColor=white&style=plastic" />
   <img alt="SpringMVC" src="https://img.shields.io/badge/SpringMVC-088A51?logo=Spring&logoColor=white&style=plastic" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-088A51?logo=Spring&logoColor=white&style=plastic" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=plastic" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=white&style=plastic" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
 
 Front End:
