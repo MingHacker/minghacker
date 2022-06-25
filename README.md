@@ -29,6 +29,6 @@ Testing:
  
 Depolyment:
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1282a6?logo=docker&logoColor=white&style=plastic" />
-  <img alt="Kubernetics" src="https://img.shields.io/badge/Kubernetics-1282a6?logo=Kubernetics&logoColor=white&style=plastic" />
+  <img alt="Kubernetics" src="https://img.shields.io/badge/Kubernetics-1282a6?logo=docker&logoColor=white&style=plastic" />
   <img alt="NGINX" src="https://img.shields.io/badge/NGINX-forestGreen?logo=nginx&logoColor=white&style=plastic" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=plastic" />
