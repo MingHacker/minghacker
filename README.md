@@ -13,11 +13,11 @@ Front End:
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=plastic" />
 
 Back End:
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-000000?logo=Spring&logoColor=white&style=plastic" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=plastic" />
-  <img alt="mySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-088A51?logo=Spring&logoColor=white&style=plastic" />
+  <img alt="SpringMVC" src="https://img.shields.io/badge/SpringMVC-088A51?logo=Spring&logoColor=white&style=plastic" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-088A51?logo=Spring&logoColor=white&style=plastic" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic" />
 
 Testing:
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white&style=plastic" />
