@@ -18,7 +18,8 @@ Front End:
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=plastic" />
   
 Testing:
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white&style=plastic" />
+  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-%23C21325?logo=junit&logoColor=white&style=plastic" />
+  <img alt="JMeter" src="https://img.shields.io/badge/-JMeter-%23C21325?logo=jmeter&logoColor=white&style=plastic" />
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white&style=plastic" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-f5e5aa?logo=chai&logoColor=white&style=plastic"/>
   <img alt="React-Testing-Library" src="https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
