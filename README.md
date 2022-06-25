@@ -13,7 +13,7 @@ Front End:
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=plastic" />
 
 Back End:
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=plastic" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-000000?logo=Spring&logoColor=white&style=plastic" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=plastic" />
   <img alt="mySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
